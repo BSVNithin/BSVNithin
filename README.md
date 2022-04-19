@@ -5,3 +5,5 @@
 <br>
 Skills: JAVASCRIPT / REACT / JS / HTML / CSS
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BSVNithin&layout=compact)](https://github.com/BSVNithin/github-readme-stats)
+
