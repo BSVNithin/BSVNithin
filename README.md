@@ -10,6 +10,6 @@
 🛠 Tools: Jupyter,VsCode,Anaconda,Colab.<br>
 📫 Mail me at : bsvnithin2002@gmail.com<br>
 😎 Linkedin :[Sai Venkata Nitin](https://www.linkedin.com/in/bachu-sai-venkata-nithin-85888b216?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BoGdLmvkCQcKN7smGBdGz7w%3D%3D)<br>
-🧐 Languages : C, C++, Core Java, Python, Javascript, HTML and PHP<br>
+🧐 Languages : C, C++, Python, Javascript, HTML<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BSVNithin&layout=compact)](https://github.com/BSVNithin/github-readme-stats)
 
