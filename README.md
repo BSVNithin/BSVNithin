@@ -4,7 +4,6 @@
 [![Nithin's GitHub stats](https://github-readme-stats.vercel.app/api?username=BSVNithin&theme=shades-of-purple)](https://github.com/BSVNithin/github-readme-stats)
 <br>
 👀 I’m interested in Machine Learning and DSA domain.<br>
-🌱 I’m currently learning stuff related to Machine Learning.<br>
 💞️ I’m looking to collaborate on real time projects and researches.<br>
 😎 Skills: Data Structures and Algorithms, Machine Learning, SQL.<br>
 🛠 Tools: Jupyter,VsCode,Anaconda,Colab.<br>
